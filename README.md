@@ -12,5 +12,8 @@
 <p><i>You can see all this details from the screenshots above:</i></p>
 <img src="Screenshots/4.jpg" width="80%" height="350">
 <img src="Screenshots/8.jpg" width="80%" height="350">
+<p><i> Some examples of the drawings.</i></p>
+<img src="Screenshots/11.jpg" width="80%" height="350">
+<img src="Screenshots/12.jpg" width="80%" height="350">
 <p>The presentation of my project on you tube: </p>
-<b> •• <a href="https://youtu.be/FasWHdO3rSQ">VIDEO</a> ••</b>
+<p><i> •• <a href="https://youtu.be/FasWHdO3rSQ">VIDEO</a> ••</i></p>
