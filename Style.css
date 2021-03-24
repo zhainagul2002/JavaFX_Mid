@@ -1,9 +1,45 @@
-.MenuBar {
-    -fx-background-color: #7F827A
+.VBox {
+    -fx-position: absolute;
+	-fx-margin: 0;
+	-fx-width: 100%;
+	-fx-max-width: 1200px;
+	-fx-margin: 0 auto;
+    
+	-fx-background-color: #f5f5f0;
 }
-.ToolBar {
-    -fx-background-color: black
-}
+
 .HBox {
-    -fx-background-color: #818777
+    -fx-display: flex;
+	-fx-top: 0;
+	-fx-left: 0;
+	-fx-right: 0;
+    -fx-width: 100%;
+	-fx-height: 90vh;
+
+    -fx-background-color: #f5f5f0;
+}
+
+.button {
+	-fx-padding-top: 13px;
+	-fx-font-size: 15px;
+	-fx-text-align: center;
+	-fx-color: #333;
+    -fx-vertical-align: top;
+}
+
+.canvas {
+	-fx-display: inline-block;
+	-fx-vertical-align: top;
+	-fx-padding: 7px 30px;
+
+	-fx-border: 1px solid #333;
+	-fx-border-radius: 2px;
+
+	-fx-font-size: 15px;
+	-fx-font-weight: 600;
+	-fx-color: #333;
+	-fx-text-decoration: none;
+	-fx-text-align: center;
+	-fx-margin-left: 50px;
+	-fx-margin-top: 30px;
 }
